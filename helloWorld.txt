@@ -1,2 +1,0 @@
---Mi primer script en groovy
-print "Hello World"
